@@ -1,7 +1,0 @@
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\for4\obj\Debug\TimeforExam.csprojResolveAssemblyReference.cache
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\for4\obj\Debug\TimeforExam.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\for4\obj\Debug\for4.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\for4\obj\Debug\for4.pdb
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\for4\bin\Debug\for4.exe.config
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\for4\bin\Debug\for4.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\for4\bin\Debug\for4.pdb

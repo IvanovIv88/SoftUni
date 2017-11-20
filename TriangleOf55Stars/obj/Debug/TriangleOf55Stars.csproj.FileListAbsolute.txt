@@ -1,6 +1,0 @@
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe.config
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.pdb
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.pdb

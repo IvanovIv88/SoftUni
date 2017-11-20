@@ -1,6 +1,0 @@
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\05\bin\Debug\05.exe.config
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\05\bin\Debug\05.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\05\bin\Debug\05.pdb
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\05\obj\Debug\05.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\05\obj\Debug\05.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\05\obj\Debug\05.pdb

@@ -1,7 +1,0 @@
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Add1000\bin\Debug\Add1000.exe.config
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Add1000\bin\Debug\Add1000.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Add1000\bin\Debug\Add1000.pdb
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Add1000\obj\Debug\Add1000.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Add1000\obj\Debug\Add1000.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Add1000\obj\Debug\Add1000.pdb
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Add1000\obj\Debug\Add1000.csprojResolveAssemblyReference.cache

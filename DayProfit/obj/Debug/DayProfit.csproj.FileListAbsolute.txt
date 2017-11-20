@@ -1,7 +1,0 @@
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\DayProfit\obj\Debug\DayProfit.csprojResolveAssemblyReference.cache
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\DayProfit\obj\Debug\DayProfit.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\DayProfit\bin\Debug\DayProfit.exe.config
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\DayProfit\bin\Debug\DayProfit.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\DayProfit\bin\Debug\DayProfit.pdb
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\DayProfit\obj\Debug\DayProfit.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\DayProfit\obj\Debug\DayProfit.pdb

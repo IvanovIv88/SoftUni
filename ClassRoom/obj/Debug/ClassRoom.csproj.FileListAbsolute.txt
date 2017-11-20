@@ -1,7 +1,0 @@
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\ClassRoom\bin\Debug\ClassRoom.exe.config
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\ClassRoom\bin\Debug\ClassRoom.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\ClassRoom\bin\Debug\ClassRoom.pdb
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\ClassRoom\obj\Debug\ClassRoom.csprojResolveAssemblyReference.cache
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\ClassRoom\obj\Debug\ClassRoom.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\ClassRoom\obj\Debug\ClassRoom.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\ClassRoom\obj\Debug\ClassRoom.pdb

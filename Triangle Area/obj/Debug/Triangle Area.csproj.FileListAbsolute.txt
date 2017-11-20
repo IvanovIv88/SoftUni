@@ -1,7 +1,0 @@
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Triangle Area\bin\Debug\Triangle Area.exe.config
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Triangle Area\bin\Debug\Triangle Area.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Triangle Area\bin\Debug\Triangle Area.pdb
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Triangle Area\obj\Debug\Triangle Area.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Triangle Area\obj\Debug\Triangle Area.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Triangle Area\obj\Debug\Triangle Area.pdb
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Triangle Area\obj\Debug\Triangle Area.csprojResolveAssemblyReference.cache

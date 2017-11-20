@@ -1,6 +1,0 @@
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\PointinFigure-Exam\bin\Debug\PointinFigure-Exam.exe.config
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\PointinFigure-Exam\bin\Debug\PointinFigure-Exam.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\PointinFigure-Exam\bin\Debug\PointinFigure-Exam.pdb
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\PointinFigure-Exam\obj\Debug\PointinFigure-Exam.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\PointinFigure-Exam\obj\Debug\PointinFigure-Exam.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\PointinFigure-Exam\obj\Debug\PointinFigure-Exam.pdb

@@ -1,7 +1,0 @@
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\100 day of birth\obj\Debug\100 day of birth.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\100 day of birth\bin\Debug\100 day of birth.exe.config
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\100 day of birth\bin\Debug\100 day of birth.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\100 day of birth\bin\Debug\100 day of birth.pdb
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\100 day of birth\obj\Debug\100 day of birth.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\100 day of birth\obj\Debug\100 day of birth.pdb
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\100 day of birth\obj\Debug\100 day of birth.csprojResolveAssemblyReference.cache
