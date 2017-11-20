@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\SborIliProizvedenie\bin\Debug\SborIliProizvedenie.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\SborIliProizvedenie\bin\Debug\SborIliProizvedenie.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\SborIliProizvedenie\bin\Debug\SborIliProizvedenie.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\SborIliProizvedenie\obj\Debug\SborIliProizvedenie.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\SborIliProizvedenie\obj\Debug\SborIliProizvedenie.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\SborIliProizvedenie\obj\Debug\SborIliProizvedenie.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\SborIliProizvedenie\obj\Debug\SborIliProizvedenie.pdb

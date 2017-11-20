@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\TestResult\bin\Debug\TestResult.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\TestResult\bin\Debug\TestResult.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\TestResult\bin\Debug\TestResult.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\TestResult\obj\Debug\Cake.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\TestResult\obj\Debug\Cake.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\TestResult\obj\Debug\TestResult.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\TestResult\obj\Debug\TestResult.pdb

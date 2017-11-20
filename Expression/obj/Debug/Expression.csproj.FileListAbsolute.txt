@@ -1,0 +1,6 @@
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Expression\bin\Debug\Expression.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Expression\bin\Debug\Expression.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Expression\bin\Debug\Expression.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Expression\obj\Debug\Expression.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Expression\obj\Debug\Expression.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Expression\obj\Debug\Expression.pdb

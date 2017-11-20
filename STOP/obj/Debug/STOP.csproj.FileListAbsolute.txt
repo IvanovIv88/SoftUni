@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\STOP\bin\Debug\STOP.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\STOP\bin\Debug\STOP.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\STOP\bin\Debug\STOP.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\STOP\obj\Debug\STOP.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\STOP\obj\Debug\STOP.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\STOP\obj\Debug\STOP.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\STOP\obj\Debug\STOP.pdb
