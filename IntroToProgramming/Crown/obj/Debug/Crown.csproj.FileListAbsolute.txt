@@ -1,0 +1,6 @@
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Crown\bin\Debug\Crown.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Crown\bin\Debug\Crown.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Crown\bin\Debug\Crown.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Crown\obj\Debug\Crown.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Crown\obj\Debug\Crown.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Crown\obj\Debug\Crown.pdb

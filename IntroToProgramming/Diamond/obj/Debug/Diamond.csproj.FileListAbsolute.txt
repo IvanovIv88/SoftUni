@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Diamond\bin\Debug\Diamond.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Diamond\bin\Debug\Diamond.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Diamond\bin\Debug\Diamond.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Diamond\obj\Debug\Diamond.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Diamond\obj\Debug\Diamond.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Diamond\obj\Debug\Diamond.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Diamond\obj\Debug\Diamond.pdb

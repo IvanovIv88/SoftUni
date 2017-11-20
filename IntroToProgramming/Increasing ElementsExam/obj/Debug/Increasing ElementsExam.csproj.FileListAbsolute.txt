@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Increasing ElementsExam\bin\Debug\Increasing ElementsExam.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Increasing ElementsExam\bin\Debug\Increasing ElementsExam.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Increasing ElementsExam\bin\Debug\Increasing ElementsExam.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Increasing ElementsExam\obj\Debug\Increasing ElementsExam.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Increasing ElementsExam\obj\Debug\Increasing ElementsExam.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Increasing ElementsExam\obj\Debug\Increasing ElementsExam.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Increasing ElementsExam\obj\Debug\Increasing ElementsExam.pdb

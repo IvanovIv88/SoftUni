@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\AdvancedLoops\bin\Debug\AdvancedLoops.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\AdvancedLoops\bin\Debug\AdvancedLoops.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\AdvancedLoops\bin\Debug\AdvancedLoops.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\AdvancedLoops\obj\Debug\AdvancedLoops.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\AdvancedLoops\obj\Debug\AdvancedLoops.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\AdvancedLoops\obj\Debug\AdvancedLoops.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\AdvancedLoops\obj\Debug\AdvancedLoops.pdb

@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\TriangleLoops\bin\Debug\TriangleLoops.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\TriangleLoops\bin\Debug\TriangleLoops.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\TriangleLoops\bin\Debug\TriangleLoops.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\TriangleLoops\obj\Debug\TriangleLoops.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\TriangleLoops\obj\Debug\TriangleLoops.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\TriangleLoops\obj\Debug\TriangleLoops.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\TriangleLoops\obj\Debug\TriangleLoops.pdb

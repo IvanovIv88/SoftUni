@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\BitCoin\obj\Debug\BitCoin.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\BitCoin\obj\Debug\BitCoin.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\BitCoin\bin\Debug\BitCoin.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\BitCoin\bin\Debug\BitCoin.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\BitCoin\bin\Debug\BitCoin.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\BitCoin\obj\Debug\BitCoin.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\BitCoin\obj\Debug\BitCoin.pdb

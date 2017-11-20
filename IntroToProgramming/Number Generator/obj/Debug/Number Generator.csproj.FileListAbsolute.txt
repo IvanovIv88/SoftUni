@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Number Generator\bin\Debug\Number Generator.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Number Generator\bin\Debug\Number Generator.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Number Generator\bin\Debug\Number Generator.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Number Generator\obj\Debug\Number Generator.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Number Generator\obj\Debug\Number Generator.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Number Generator\obj\Debug\Number Generator.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Number Generator\obj\Debug\Number Generator.pdb
