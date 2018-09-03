@@ -1,7 +1,0 @@
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\SecondExam\bin\Debug\SecondExam.exe.config
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\SecondExam\bin\Debug\SecondExam.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\SecondExam\bin\Debug\SecondExam.pdb
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\SecondExam\obj\Debug\SecondExam.csprojResolveAssemblyReference.cache
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\SecondExam\obj\Debug\SecondExam.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\SecondExam\obj\Debug\SecondExam.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\SecondExam\obj\Debug\SecondExam.pdb

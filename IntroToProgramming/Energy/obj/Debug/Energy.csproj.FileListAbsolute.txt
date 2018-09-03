@@ -1,7 +1,0 @@
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Energy\bin\Debug\Energy.exe.config
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Energy\bin\Debug\Energy.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Energy\bin\Debug\Energy.pdb
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Energy\obj\Debug\Energy.csprojResolveAssemblyReference.cache
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Energy\obj\Debug\Energy.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Energy\obj\Debug\Energy.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Energy\obj\Debug\Energy.pdb

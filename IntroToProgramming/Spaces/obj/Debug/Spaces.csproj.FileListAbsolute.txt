@@ -1,7 +1,0 @@
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Spaces\bin\Debug\Spaces.exe.config
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Spaces\bin\Debug\Spaces.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Spaces\bin\Debug\Spaces.pdb
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Spaces\obj\Debug\Spaces.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Spaces\obj\Debug\Spaces.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Spaces\obj\Debug\Spaces.pdb
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Spaces\obj\Debug\Spaces.csprojResolveAssemblyReference.cache

@@ -1,7 +1,0 @@
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\FOR\bin\Debug\FOR.exe.config
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\FOR\bin\Debug\FOR.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\FOR\bin\Debug\FOR.pdb
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\FOR\obj\Debug\FOR.csprojResolveAssemblyReference.cache
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\FOR\obj\Debug\FOR.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\FOR\obj\Debug\FOR.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\FOR\obj\Debug\FOR.pdb

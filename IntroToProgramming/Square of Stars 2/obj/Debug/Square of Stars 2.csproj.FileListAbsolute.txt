@@ -1,7 +1,0 @@
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Square of Stars 2\bin\Debug\Square of Stars 2.exe.config
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Square of Stars 2\bin\Debug\Square of Stars 2.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Square of Stars 2\bin\Debug\Square of Stars 2.pdb
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Square of Stars 2\obj\Debug\Square of Stars 2.csprojResolveAssemblyReference.cache
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Square of Stars 2\obj\Debug\Square of Stars 2.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Square of Stars 2\obj\Debug\Square of Stars 2.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Square of Stars 2\obj\Debug\Square of Stars 2.pdb

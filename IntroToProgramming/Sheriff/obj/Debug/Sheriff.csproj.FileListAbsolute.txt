@@ -1,7 +1,0 @@
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Sheriff\bin\Debug\Sheriff.exe.config
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Sheriff\bin\Debug\Sheriff.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Sheriff\bin\Debug\Sheriff.pdb
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Sheriff\obj\Debug\Sheriff.csprojResolveAssemblyReference.cache
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Sheriff\obj\Debug\Sheriff.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Sheriff\obj\Debug\Sheriff.exe
-C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\IntroToProgramming\Sheriff\obj\Debug\Sheriff.pdb
