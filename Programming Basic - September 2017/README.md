@@ -6,7 +6,7 @@
 - <a href="https://github.com/IvanovIv88/SoftUni/tree/master/Programming%20Basic%20-%20September%202017/3.ConditionalStatements" > 3. Conditional Statements </a>
 - <a href="https://github.com/IvanovIv88/SoftUni/tree/master/Programming%20Basic%20-%20September%202017/4.ComplexConditionalStatements" > 4. Complex Conditional Statements </a>
 - <a href="https://github.com/IvanovIv88/SoftUni/tree/master/Programming%20Basic%20-%20September%202017/5.SimpleLoops" > 5. Simple Loops </a>
-- <a href="https://github.com/IvanovIv88/SoftUni/tree/master/Programming%20Basic%20-%20September%202017/DrawingShapesWithLoops" > 6. Drawing Shapes With Loops </a>
+- <a href="https://github.com/IvanovIv88/SoftUni/tree/master/Programming%20Basic%20-%20September%202017/6.DrawingShapesWithLoops" > 6. Drawing Shapes With Loops </a>
 - <a href="https://github.com/IvanovIv88/SoftUni/tree/master/Programming%20Basic%20-%20September%202017/7.ComplexLoops" > 7. Complex Loops </a>
 
 
