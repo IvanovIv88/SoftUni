@@ -1,4 +1,4 @@
-# <a href="https://softuni.bg/trainings/1722/programming-basics-with-csharp-september-2017#lesson-6099" rel="Programming Basics - September 2017"><p align="center"> Programming-Basics <p></a>
+# <a href="https://softuni.bg/trainings/1722/programming-basics-with-csharp-september-2017#lesson-6099" rel="ProgrammingBasics-September2017"><p align="center"> Programming-Basics <p></a>
 
 ## Exercises
 - <a href="https://github.com/stefkavasileva/SoftUni-Software-Engineering/tree/master/Programming%20Basics/Exercises/AdvancedLoopsExercises" > Advanced Loops - Exercises </a>
