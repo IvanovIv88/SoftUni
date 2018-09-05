@@ -43,10 +43,7 @@ Print all the taken views separated with ", ".
 
 #### Examples
 
-| **Input**| **Output**|
-|---|---|
-|9 7 <br/> GreatBigSea`|`<uglyStuffHawaii`|`<boriiiingKilauea|Hawaii, Kilauea|
-|0 5 <br/> `|`>invalid`|`<beach`|`noMoreCameras|beach|
+![Not fount](/Programming%20Fundamentals%20-%20January%202018/source/regex1.png)
 
 ## 03.*Valid Usernames
 **This problem is from the Java Basics Exam (21 September 2014 Evening)**.
