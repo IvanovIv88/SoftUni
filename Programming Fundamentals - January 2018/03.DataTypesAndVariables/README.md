@@ -14,7 +14,7 @@ Create a new C# project and create a program that **assigns integer values** to 
 > #### Hints
 > Follow the idea in the code below:
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/dataType6.png)
+![Not fount](/Programming%20Fundamentals%20-%20January%202018/source/dataType6.png)
 
 ## 02. Practice Floating Points
 
@@ -128,7 +128,7 @@ Declare the **variables** needed to keep the information for a single employee u
 
 > #### Hints
 
-![Not fount](/Programmin%20Fundamentals/Homeworks%20and%20Labs/images/dataType6.png)
+![Not fount](/Programming%20Fundamentals%20-%20January%202018/source/dataType6.png)
 
 ## 09.Reverse Characters
 
