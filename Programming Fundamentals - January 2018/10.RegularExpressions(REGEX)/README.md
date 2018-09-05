@@ -45,6 +45,33 @@ Print all the taken views separated with ", ".
 
 ![Not fount](/Programming%20Fundamentals%20-%20January%202018/source/regex1.PNG)
 
+## 01.Extract emails
+You have to make a weather forecast about the weather depending on strings, which you receive from the console. Every string consists of data about the city, average temperature and weather type. You will receive strings until you receive the command “end”. 
+Every valid weather forecast consists of: 
+- Two Latin capital letters, which represent the code of the city.
+- Immediately followed by a floating-point number, which will represent the average temperature. Numbers without a floating point are not considered valid.
+- Followed by the type of weather, which will consist of uppercase and lowercase Latin letters, starts immediately after the temperature and ends at the first occurrence of the sign ‘|’.
+
+If you receive input, which does not follow the rules above – ignore it.
+If you receive a new temperature and/or type of weather for a city, which already exists – rewrite the previous values.
+At the end, print the temperature and weather type for every city. Order the cities by average temperature in ascending order.
+
+#### Input
+You will receive strings until you receive the command “end”.
+
+#### Output
+Print all cities ordered by average temperature in ascending order. Use the following format: 
+“{nameOfTheCity} => {averageTemperature} => {typeOfWeather}”
+Format the temperature to the 2nd decimal place.
+
+#### Constraints
+- The average temperature will be in the interval [0.00…50.00]
+- The floating-point numbers will have at most 2 digits after the floating point.
+
+#### Examples
+
+![Not fount](/Programming%20Fundamentals%20-%20January%202018/source/regex2.PNG)
+
 ## 03.*Valid Usernames
 **This problem is from the Java Basics Exam (21 September 2014 Evening)**.
 You are part of the back-end development team of the next Facebook. You are given **a line of usernames**, between one of the following symbols: **space, “/”, “\”, “(“, “)”**. First you have to export all **valid** usernames. A valid username **starts with a letter** and can contain **only letters, digits and “_”**. It cannot be **less than 3 or more than 25 symbols** long. Your task is to **sum** the length of **every 2 consecutive** valid usernames and print on the console the 2 valid usernames with **biggest sum** of their **lengths**, each on a separate line. 
