@@ -7,13 +7,14 @@ The course covers understanding the basic data types in programming, extracting 
 Along with the programming techniques, the algorithmic thinking and problem solving skills are advanced by solving hundreds of practical programming problems. All exercises and exams are automatically evaluated with real-time feedback through the SoftUni online judge system. At the end all students take a practical programming exam.
 
 ## Exercises
-- <a href="https://github.com/IvanovIv88/SoftUni/tree/master/Programming%20Basic%20-%20September%202017/1.FirstStepsInProgramming" > 1. First Steps In Programming </a>
-- <a href="https://github.com/IvanovIv88/SoftUni/tree/master/Programming%20Basic%20-%20September%202017/2.SimpleCalculations" > 2. Simple Calculations </a>
-- <a href="https://github.com/IvanovIv88/SoftUni/tree/master/Programming%20Basic%20-%20September%202017/3.ConditionalStatements" > 3. Conditional Statements </a>
-- <a href="https://github.com/IvanovIv88/SoftUni/tree/master/Programming%20Basic%20-%20September%202017/4.ComplexConditionalStatements" > 4. Complex Conditional Statements </a>
-- <a href="https://github.com/IvanovIv88/SoftUni/tree/master/Programming%20Basic%20-%20September%202017/5.SimpleLoops" > 5. Simple Loops </a>
-- <a href="https://github.com/IvanovIv88/SoftUni/tree/master/Programming%20Basic%20-%20September%202017/6.DrawingShapesWithLoops" > 6. Drawing Shapes With Loops </a>
-- <a href="https://github.com/IvanovIv88/SoftUni/tree/master/Programming%20Basic%20-%20September%202017/7.ComplexLoops" > 7. Complex Loops </a>
-
-
-
+- <a href="https://github.com/IvanovIv88/SoftUni/tree/master/Programming%20Fundamentals%20-%20January%202018/01.C%23IntroAndBasicSyntax" > 1. C# Intro And Basic Syntax </a>
+- <a href="https://github.com/IvanovIv88/SoftUni/tree/master/Programming%20Fundamentals%20-%20January%202018/02.C%23ConditionalStatementsAndLoops" > 2. C# Conditional Statments And Loops </a>
+- <a href="https://github.com/IvanovIv88/SoftUni/tree/master/Programming%20Fundamentals%20-%20January%202018/03.DataTypesAndVariables" > 3. Data Types And Variables </a>
+- <a href="https://github.com/IvanovIv88/SoftUni/tree/master/Programming%20Fundamentals%20-%20January%202018/04.Methods%2CDebuggingAndTroubleshootingCode" > 4. Methods, Debugging And Troubleshooting Code </a>
+- <a href="https://github.com/IvanovIv88/SoftUni/tree/master/Programming%20Fundamentals%20-%20January%202018/05.Arrays" > 5. Arrays </a>
+- <a href="https://github.com/IvanovIv88/SoftUni/tree/master/Programming%20Fundamentals%20-%20January%202018/06.Lists" > 6. Lists </a>
+- <a href="https://github.com/IvanovIv88/SoftUni/tree/master/Programming%20Fundamentals%20-%20January%202018/07.Dictionares%2CLambdaExpressionsAndLinq" > 7. Dictionares, Lambda Expressions And LINQ </a>
+- <a href="https://github.com/IvanovIv88/SoftUni/tree/master/Programming%20Fundamentals%20-%20January%202018/08.ObjectsAndClasses" > 8. Objects And Classes </a>
+- <a href="https://github.com/IvanovIv88/SoftUni/tree/master/Programming%20Fundamentals%20-%20January%202018/09.StringsAndTextProcessing" > 9. Strings And Text Processing </a>
+- <a href="https://github.com/IvanovIv88/SoftUni/tree/master/Programming%20Fundamentals%20-%20January%202018/10.RegularExpressions(REGEX)" > 10. Regular Expressions(REGEX) </a>
+- <a href="https://github.com/IvanovIv88/SoftUni/tree/master/Programming%20Fundamentals%20-%20January%202018/11.FilesAndExceptions" > 11. FilesAndExceptions </a>
