@@ -31,6 +31,23 @@ Write a program that **extracts from a text all sentences that contain a particu
 |---|
 |Welcome to SoftUni <br/> You need to allocate for study 20-30 hours weekly <br/> To be or not to be - that is the question|
 
+## 03. Camera View
+You are an amateur photographer and you want to calculate what will be seen in your pictures.
+On the first line, you will receive an array of integers with exactly two elements:
+First element – m will be the elements, which you have to skip. The second element – n will be the elements, which you have to take.
+On the next line, you will receive a string, in which every camera will be marked with "|<". Skip the next m elements immediately after the camera and take the next n elements.
+If you encounter new camera in the view  stop the current camera and start new view with the newly found.
+
+#### Output
+Print all the taken views separated with ", ".
+
+#### Examples
+
+| **Input**| **Output**|
+|---|---|
+|9 7 <br/> GreatBigSea|<uglyStuffHawaii|<boriiiingKilauea|Hawaii, Kilauea|
+|0 5 <br/> |>invalid|<beach|noMoreCameras|beach|
+
 ## 03.*Valid Usernames
 **This problem is from the Java Basics Exam (21 September 2014 Evening)**.
 You are part of the back-end development team of the next Facebook. You are given **a line of usernames**, between one of the following symbols: **space, “/”, “\”, “(“, “)”**. First you have to export all **valid** usernames. A valid username **starts with a letter** and can contain **only letters, digits and “_”**. It cannot be **less than 3 or more than 25 symbols** long. Your task is to **sum** the length of **every 2 consecutive** valid usernames and print on the console the 2 valid usernames with **biggest sum** of their **lengths**, each on a separate line. 
