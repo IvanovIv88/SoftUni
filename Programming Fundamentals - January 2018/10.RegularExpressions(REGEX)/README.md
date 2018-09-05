@@ -36,7 +36,7 @@ You are an amateur photographer and you want to calculate what will be seen in y
 On the first line, you will receive an array of integers with exactly two elements:
 First element – m will be the elements, which you have to skip. The second element – n will be the elements, which you have to take.
 On the next line, you will receive a string, in which every camera will be marked with "|<". Skip the next m elements immediately after the camera and take the next n elements.
-If you encounter new camera in the view  stop the current camera and start new view with the newly found.
+If you encounter new camera in the view **->** stop the current camera and start new view with the newly found.
 
 #### Output
 Print all the taken views separated with ", ".
@@ -45,12 +45,12 @@ Print all the taken views separated with ", ".
 
 ![Not fount](/Programming%20Fundamentals%20-%20January%202018/source/regex1.PNG)
 
-## 01.Extract emails
+## 04. Extract emails
 You have to make a weather forecast about the weather depending on strings, which you receive from the console. Every string consists of data about the city, average temperature and weather type. You will receive strings until you receive the command “end”. 
 Every valid weather forecast consists of: 
-- Two Latin capital letters, which represent the code of the city.
-- Immediately followed by a floating-point number, which will represent the average temperature. Numbers without a floating point are not considered valid.
-- Followed by the type of weather, which will consist of uppercase and lowercase Latin letters, starts immediately after the temperature and ends at the first occurrence of the sign ‘|’.
+- **Two Latin capital letters**, which represent the code of the city.
+- **Immediately followed** by a **floating-point** number, which will represent the average temperature. Numbers without a floating point are not considered valid.
+- Followed by the type of weather, which will consist of uppercase and lowercase Latin letters, starts immediately after the temperature and ends at the first occurrence of the sign ‘ **|** ’.
 
 If you receive input, which does not follow the rules above – ignore it.
 If you receive a new temperature and/or type of weather for a city, which already exists – rewrite the previous values.
@@ -72,7 +72,22 @@ Format the temperature to the 2nd decimal place.
 
 ![Not fount](/Programming%20Fundamentals%20-%20January%202018/source/regex2.PNG)
 
-## 03.*Valid Usernames
+## 05. Key Replacer
+You will be given a **key string** and a **text string**. The key string will contain a start key and an end key.
+The start key starts at the beginning of the string and ends at the first occurrence of one of the symbols – “|”, “<” or “\”. The end key starts at the last occurrence of one of these symbols and ends when the string ends. Both keys can contain only Latin alphabet letters.
+When you extract both keys search for them in the text string and extract every string, which is between them. Concatenate all collected strings and print the result. If the result string is empty print “Empty result”.
+
+#### Input
+The input will be read from the **console**. The first line will hold the **keys string** and the **second** line will hold the text to search.
+
+#### Output
+Print the **concatenated message**, if such exists or "**Empty result**", if it does not.
+
+#### Examples
+
+![Not fount](/Programming%20Fundamentals%20-%20January%202018/source/regex3.PNG)
+
+## 06. *Valid Usernames
 **This problem is from the Java Basics Exam (21 September 2014 Evening)**.
 You are part of the back-end development team of the next Facebook. You are given **a line of usernames**, between one of the following symbols: **space, “/”, “\”, “(“, “)”**. First you have to export all **valid** usernames. A valid username **starts with a letter** and can contain **only letters, digits and “_”**. It cannot be **less than 3 or more than 25 symbols** long. Your task is to **sum** the length of **every 2 consecutive** valid usernames and print on the console the 2 valid usernames with **biggest sum** of their **lengths**, each on a separate line. 
 
@@ -100,7 +115,7 @@ Print at the console the 2 **consecutive valid usernames** with the **biggest su
 |min23/ace hahah21 (    sasa  )  att3454/a/a2/abc|  hahah21 <br/> sasa|
 |chico/ gosho \ sapunerka (3sas) mazut  lelQ_Van4e|mazut <br/> lelQ_Van4e|
 
-## 04.*Query Mess
+## 07. *Query Mess
 **This problem is originally from the JavaScript Basics Exam (22 November 2014).** 
 **Ivancho** participates in a team **project** with colleagues at **SoftUni**.  They have to develop an **application**, but something mysterious happened – at the last moment all team members… disappeared!  And guess what? He is left **alone** to finish the project.  All that is left to do is to parse the input data and store it in a special way, but Ivancho has no idea how to do that! Can you help him?
 
@@ -127,7 +142,7 @@ For each row of the input, the query string contains pairs field=value. Within e
 |field=value1&field=value2&field=value3 <br/> http://example.com/over/there?name=ferret <br/> END|field=[value1, value2, value3] <br/> name=[ferret]|
 |foo=%20foo&value=+val&foo+=5+%20+203 <br/> foo=poo%20&value=valley&dog=wow+ <br/> url=https://softuni.bg/trainings/coursesinstances/details/1070 <br/> https://softuni.bg/trainings.asp?trainer=nakov&course=oop&course=php <br/> END |foo=[foo, 5 203]value=[val] <br/> foo=[poo]value=[valley]dog=[wow] <br/> url=[https://softuni.bg/trainings/coursesinstances/details/1070] <br/> trainer=[nakov]course=[oop, php]|
 
-## 05.*Use Your Chains, Buddy
+## 08. *Use Your Chains, Buddy
 **This problem is from the JavaScript Basics Exam (9 January 2015).** 
 You are in Cherny Vit now and there are 12km to Anchova Bichkiya Hut. You need to get there by car. But there is so much snow that you need to use car chains. In order to put them on the wheels correctly, you need to read the manual. But it is encrypted…
 As input you will receive **an HTML document** as a **single string**. You need to get the text from **all the <p> tags** and replace all characters which are **not small letters and numbers** with a space " ". After that you must decrypt the text – all letters **from a to m** are converted to letters **from n to z** (a -> n; b -> o; … m -> z). The letters **from n to z** are **converted** to letters **from a to m** (n -> a; o -> b; … z -> m). All **multiple** spaces should then be replaced by only **one space**.
