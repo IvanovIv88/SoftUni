@@ -45,8 +45,8 @@ Print all the taken views separated with ", ".
 
 | **Input**| **Output**|
 |---|---|
-|9 7 <br/> GreatBigSea|<uglyStuffHawaii|<boriiiingKilauea|Hawaii, Kilauea|
-|0 5 <br/> |>invalid|<beach|noMoreCameras|beach|
+|9 7 <br/> GreatBigSea`|`<uglyStuffHawaii`|`<boriiiingKilauea|Hawaii, Kilauea|
+|0 5 <br/> `|`>invalid`|`<beach`|`noMoreCameras|beach|
 
 ## 03.*Valid Usernames
 **This problem is from the Java Basics Exam (21 September 2014 Evening)**.
