@@ -43,7 +43,7 @@ Print all the taken views separated with ", ".
 
 #### Examples
 
-![Not fount](/Programming%20Fundamentals%20-%20January%202018/source/regex1.png)
+![Not fount](/Programming%20Fundamentals%20-%20January%202018/source/regex1.PNG)
 
 ## 03.*Valid Usernames
 **This problem is from the Java Basics Exam (21 September 2014 Evening)**.
