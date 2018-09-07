@@ -57,7 +57,7 @@ Write a program, which displays information about a video game character. You wi
 
 |**Input**|**Output**|
 |---|---|
-|Mayro <br/> 5 <br/> 10 <br/> 9 <br/> 10|Name: Mayro <br/> Health: \|\|\|\|\|\|.....\| <br/> Energy: \|\|\|\|\|\|\|\|\|\|.\|
+|Mayro <br/> 5 <br/> 10 <br/> 9 <br/> 10|Name: Mayro <br/> Health:  \| \| \| \| \| \| . . . . . \| <br/> Energy: \| \| \| \| \| \| \| \| \| \| . \||
 
 ## 07.Advertisement Message
 Write a program that **generate random fake advertisement message** to extol some product. The messages must consist of 4 parts: laudatory **phrase + event + author + city**. Use the following predefined parts:
