@@ -1,43 +1,39 @@
-# <p align="center"> Files And Exceptions - Exercises <p>
+# <p align="center"> C# Intro And Basic Syntax - Exercises <p>
 
-## 01.Most Frequent Number
+## 01. Debit Card Number
 
-Write a program that finds the **most frequent number** in a given sequence of numbers.
-
-- Numbers will be in the range [0…65535].
-
-- In case of multiple numbers with the same maximal frequency, print the leftmost of them.
+Write a program, which receives **4 integers** on the console and **prints them** in **4-digit debit card format**. See the examples below for the appropriate formatting.
 
 #### Examples
 
 |**Input**|**Output**|**Comments**|
-|---|---|---|
-|4 1 1 4 2 3 4 4 1 2 4 9 3	|4|	The number 4 is the most frequent (occurs 5 times)|
-|2 2 2 2 1 2 2 2	|2|	The number 2 is the most frequent (occurs 7 times)|
-|7 7 7 0 2 2 2 0 10 10 10	|7|	The numbers 2, 7 and 10 have the same maximal frequence (each occurs 3 times). The leftmost of them is 7.|
+|---|---|
+|12 <br/> 433 <br/> 1 <br/> 5331|0012 0433 0001 5331|
+|9182 <br/> 4221 <br/> 12 <br/> 3|9182 4221 0012 0003|
+|812 <br/> 321 <br/> 123 <br/> 22|0812 0321 0123 0022|
 
-## 02.Index of Letters
-Write a program that creates an array containing all letters from the alphabet (a-z). Read a lowercase word from the console and print the **index of each of its letters in the letters array**.
+## 02. Rectangle Area
+Write a program, which calculates a **rectangle’s area**, based on its **width** and **height**. The width and height come as floating point numbers on the console, **formatted to the 2nd character after the decimal point**.
 
 #### Examples
 
 |**Input**|**Output**|
 |---|---|
-|abcz	|a -> 0 <br/> b -> 1 <br/> c -> 2 <br/> z -> 25|
-|softuni	|s -> 18 <br/> o -> 14 <br/> f -> 5 <br/> t -> 19 <br/> u -> 20 <br/> n -> 13 <br/> i -> 8|
+|2 <br/> 7|14.00|
+|7 <br/> 8|56.00|
+|12.33 <br/> 5|61.65|
 
-## 03.Equal Sums
-Write a program that determines if there **exists an element in the array** such that the **sum of the elements on its left** is **equal** to the **sum of the elements on its right**. If there are **no elements to the left / right**, their sum is considered to be 0. Print the index that satisfies the required condition or **“no”** if there is no such index.
+## 03. Miles to Kilometers
+Write a program, which **converts miles to kilometers**. Format the output to the **2nd decimal place**.
+Note: **1 mile == 1.60934 kilometers**
 
 #### Examples
 
-|**Input**|**Output**|**Comments**|
-|---|---|---|
-|1 2 3 3	|2|	At a[2] -> left sum = 3, right sum = 3 <br/> a[0] + a[1] = a[3]|
-|1 2	|no|	At a[0] -> left sum = 0, right sum = 2 <br/> At a[1] -> left sum = 1, right sum = 0 <br/> No such index exists|
-|1	|0|	At a[0] -> left sum = 0, right sum = 0|
-|1 2 3	|no|	No such index exists|
-|10 5 5 99 3 4 2 5 1 1 4	|3|	At a[3] -> left sum = 20, right sum = 20 <br/> a[0] + a[1] + a[2] = a[4] + a[5] + a[6] + a[7] + a[8] + a[9] + a[10]|
+|**Input**|**Output**|
+|---|---|
+|60     |96.56|
+|1      |1.61|
+|52.1113|83.86|
 
 ## 05.A Miner Task
 You are given a sequence of strings, each on a new line. Every odd line on the console is representing a resource (e.g. Gold, Silver, Copper, and so on), and every even – quantity. Your task is to collect the resources and print them each on a new line. 
