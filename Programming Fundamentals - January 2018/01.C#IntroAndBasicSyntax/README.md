@@ -6,7 +6,7 @@ Write a program, which receives **4 integers** on the console and **prints them*
 
 #### Examples
 
-|**Input**|**Output**|**Comments**|
+|**Input**|**Output**|
 |---|---|
 |12 <br/> 433 <br/> 1 <br/> 5331|0012 0433 0001 5331|
 |9182 <br/> 4221 <br/> 12 <br/> 3|9182 4221 0012 0003|
@@ -35,27 +35,29 @@ Note: **1 mile == 1.60934 kilometers**
 |1      |1.61|
 |52.1113|83.86|
 
-## 05.A Miner Task
-You are given a sequence of strings, each on a new line. Every odd line on the console is representing a resource (e.g. Gold, Silver, Copper, and so on), and every even – quantity. Your task is to collect the resources and print them each on a new line. 
-**Print the resources and their quantities in format:**
-**{resource} –> {quantity}**
-The quantities inputs will be in the range [1 … 2 000 000 000]
+## 04. Beverage Labels
+Write a program, which reads a food product name, volume, energy content per 100ml and sugar content per 100ml. Calculate the energy and sugar content for the given volume and print them on the console in the following format:
+- Name – as per the input
+- Volume – **integer, suffixed by “ml” (e.g. “220ml”)**
+- Energy content – **integer, suffixed by “kcal” (e.g. “500kcal”)**
+- Sugar content – **real number, suffixed by “g” (e.g. “30g”)** 
 
 #### Examples
 
 |**Input**|**Output**|
 |---|---|
-|Gold <br/> 155 <br/> Silver <br/> 10 <br/> Copper <br/> 17 <br/> stop|Gold -> 155 <br/> Silver -> 10 <br/> Copper -> 17|
+|Nuka-Cola <br/> 220 <br/> 300 <br/> 70|220ml Nuka-Cola: <br/> 660kcal, 154g sugars|
+|Ice Cold Nuka-Cola <br/> 250 <br/> 350 <br/> 65|250ml Ice Cold Nuka-Cola: <br/> 875kcal, 162.5g sugars|
+|Nuka-Cola Quantum <br/> 350 <br/> 600 <br/> 140|350ml Nuka-Cola Quantum: <br/> 2100kcal, 490g sugars|
 
-## 06.Fix Emails
-You are given a sequence of strings, each on a new line, **until you receive the “stop” command**. The first string is the **name** of a person. On the second line you will receive their **email**. Your task is to **collect** their **names** and **emails**, and **remove** emails whose domain **ends with "us"** or **"uk"** (case insensitive). Print:
-**{name} – > {email}** 
+## 05. * Character Stats
+Write a program, which displays information about a video game character. You will receive their **name, current health, maximum health, current energy and maximum energy** on separate lines. The current values will always be valid (equal or lower than their respective max values). Print them in the format as per the examples.
 
 #### Examples
 
 |**Input**|**Output**|
 |---|---|
-|Ivan <br/> ivanivan@abv.bg <br/> Petar Ivanov <br/> petartudjarov@abv.bg <br/> Mike Tyson <br/> myke@gmail.us <br/> stop|Ivan -> ivanivan@abv.bg <br/> Petar Ivanov -> petartudjarov@abv.bg|
+|Mayro <br/> 5 <br/> 10 <br/> 9 <br/> 10|Name: Mayro <br/> Health: <code>||||||.....|</code> <br/> Energy: <code>||||||||||.|</code>|
 
 ## 07.Advertisement Message
 Write a program that **generate random fake advertisement message** to extol some product. The messages must consist of 4 parts: laudatory **phrase + event + author + city**. Use the following predefined parts:
